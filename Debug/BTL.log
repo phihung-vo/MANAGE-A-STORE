@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\study\c++\btl\btl\source.cpp(9): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\study\c++\btl\btl\source.cpp(33): warning C4101: 'sp': unreferenced local variable
+  BTL.vcxproj -> D:\Study\C++\BTL\Debug\BTL.exe
